@@ -17,6 +17,7 @@ int main()
 	do {
 		std::cout<<"Choose a number between 1 -100:";
 		std::cin >> guess;
+		b=1;
 	} while (!Guess(guess));
 	return 0;
 }
