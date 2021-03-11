@@ -22,7 +22,7 @@ bool Guess(int number) {
 		std::cout<<"Bigger"<<std::endl;
 		return false;
 	}
-return true;
+return false;
 }
 
 int main()
