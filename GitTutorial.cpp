@@ -7,7 +7,7 @@
 using namespace System;
 
 bool Guess(int number) {
-
+  a=1;
 	return false;
 }
 
